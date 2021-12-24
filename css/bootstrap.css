@@ -895,6 +895,7 @@ th {
 html {
   font-size: 10px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-color: #261A59;
 }
 body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
